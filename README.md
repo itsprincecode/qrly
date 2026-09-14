@@ -3,7 +3,8 @@
 A modern and customizable QR code generator built with React.
 
 Generate QR codes for websites, social media profiles, and custom links. Customize the appearance and download your QR code instantly.
-<img width="1256" height="963" alt="image" src="https://github.com/user-attachments/assets/7e4223e7-43d1-4140-8895-bc234a9b64c7" />
+<img width="1254" height="960" alt="image" src="https://github.com/user-attachments/assets/34ec40f7-a9f3-4075-81da-506500bfb815" />
+
 
 ## ✨ Features
 
