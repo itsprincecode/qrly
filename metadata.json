@@ -1,0 +1,6 @@
+{
+  "name": "QRly — QR Code Generator",
+  "description": "Create free customizable QR codes for websites, social media, and links. Generate, customize, and download QR codes instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
