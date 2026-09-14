@@ -35,8 +35,3 @@ Generate QR codes for websites, social media profiles, and custom links. Customi
 
 ## 🚀 Getting Started
 
-### Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/qrly.git
-cd qrly
