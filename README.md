@@ -33,5 +33,3 @@ Generate QR codes for websites, social media profiles, and custom links. Customi
 - QR Code Library
 - Lucide React
 
-## 🚀 Getting Started
-
